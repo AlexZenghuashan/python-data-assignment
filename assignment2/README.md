@@ -6,6 +6,6 @@ www.woshipm.com is a website contain all kinds of information about latest techn
 ## Data set     
 * https://nbviewer.jupyter.org/github/AlexZenghuashan/python-data-assignment/blob/master/assignment2/assignment%202.ipynb
 ## Data Volume
-241 rows and 5 columns
+60 rows and 6 columns
 ## License
 CC 4.0
